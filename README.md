@@ -1,8 +1,14 @@
-<p align="center"><img width=100% src="https://github.com/hritikbhandari/hritikbhandari/raw/master/readme.gif"></p>
+<p align="center">
+  <img width=100% src="https://github.com/hritikbhandari/hritikbhandari/raw/master/readme.gif">
+</p>
 
-## Welcome to My Developer World! 🌍
+<h2 align="center">Hey there! I'm Mazen Youssef.</h2>
+<h1 align="center">I am a Full Stack Developer</h1>
+<h2 align="center">MERN Stack Developer</h2>
 
-<img align="right" src="Screen-Recording-2024-08-23T09_43_35.538Z-ezgif.com-added-text" alt="Coder GIF" width="500" height="400">
+<p align="right">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+</p>
 
 I am a passionate **Full Stack Developer** and **MERN Stack Developer**. As a fresh graduate, I am actively seeking opportunities to work as a junior Full Stack Developer or MERN Stack Developer. My goal is to grow, learn, and contribute within a professional organization, offering the highest level of work ethic and performance. I strive to become a valued team member and achieve the organization’s goals with integrity and honesty.
 
@@ -65,4 +71,6 @@ I am a passionate **Full Stack Developer** and **MERN Stack Developer**. As a fr
   <a href="https://www.linkedin.com/in/mazen-youssef-9963b0225/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<p align="center"><img width=100% src="https://github.com/hritikbhandari/hritikbhandari/raw/master/readme.gif"></p>
+<p align="center">
+  <img width=100% src="https://github.com/hritikbhandari/hritikbhandari/raw/master/readme.gif">
+</p>
