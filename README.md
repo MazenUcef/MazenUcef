@@ -1,4 +1,4 @@
-<p align="center"><img width=100% src="https://github.com/MazenUcef/GIF.git"></p>
+<p align="center"><img width=100% src="https://github.com/MazenUcef/GIF/blob/main/Screen-Recording-2024-08-23T09_43_35.538Z-ezgif.com-added-text.gif"></p>
 
 ## Welcome to My Developer World! 🌍
 
