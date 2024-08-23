@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-I am a passionate **Full Stack Developer** and **MERN Stack Developer**. As a fresh graduate, I am actively seeking opportunities to work as a junior Full Stack Developer or MERN Stack Developer. My goal is to grow, learn, and contribute within a professional organization, offering the highest level of work ethic and performance. I strive to become a valued team member and achieve the organization’s goals with integrity and honesty.
+I am a passionate **Full Stack Developer** and **MERN Stack Developer**. My goal is to grow, learn, and contribute within a professional organization, offering the highest level of work ethic and performance. I strive to become a valued team member and achieve the organization’s goals with integrity and honesty.
 
 <br><br>
 
