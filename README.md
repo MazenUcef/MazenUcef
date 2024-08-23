@@ -64,5 +64,3 @@ I am a passionate **Full Stack Developer** and **MERN Stack Developer**. My goal
   <a href="https://github.com/MazenUcef/project1976"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/mazen-youssef-9963b0225/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-
-<p align="center"><img width=100% src="https://github.com/hritikbhandari/hritikbhandari/raw/master/readme.gif"></p>
