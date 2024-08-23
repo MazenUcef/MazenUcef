@@ -1,6 +1,6 @@
 # Welcome to My Developer World! 🌍
 
-![Header](https://your-image-url.com/header-image.png)
+<p align="center"><img width=100% src="https://github.com/hritikbhandari/hritikbhandari/raw/master/readme.gif"></p>
 
 ## 🚀 About Me
 I am a passionate **Full Stack Developer** with expertise in the **MERN stack**. A fresh graduate eager to contribute, grow, and explore the exciting world of software development. My goal is to become a valued team member within a professional organization, contributing to the organization's success with integrity and excellence.
