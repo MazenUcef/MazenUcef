@@ -1,4 +1,4 @@
-<p align="center"><img width=100% src="https://github.com/hritikbhandari/hritikbhandari/raw/master/readme.gif"></p>
+<p align="center"><img width=100% src="https://github.com/MazenUcef/GIF.git"></p>
 
 ## Welcome to My Developer World! 🌍
 
