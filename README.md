@@ -35,29 +35,6 @@ I am a passionate **Full Stack Developer** and **MERN Stack Developer**. My goal
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?logo=react-hook-form&logoColor=white" alt="React Hook Form" />
 </p>
 
-<br>
-
-## 🌟 Projects I'm Working On
-
-### [Creet Blog Web-Site](https://creet-app.onrender.com/) 🚀
-**Role:** Full Stack Developer | **Technologies:** MERN Stack
-- Developed a blog application using Express for the backend and MongoDB as the database.
-- Utilized React and Node.js to build the frontend and backend.
-- **[Live Demo](https://creet-app.onrender.com/)**
-
-### [Thoughts Social Media Project](https://github.com/MazenUcef/thoughtsApp) 💬
-**Role:** MERN Stack Developer | **Status:** Completed
-- Built a social media website using the MERN stack.
-- Integrated React Query and React Hook Form for efficient data fetching and form management.
-- **[GitHub Repository](https://github.com/MazenUcef/thoughtsApp)**
-
-### [Real Estate Project](https://github.com/MazenUcef/project1975) 🏡
-**Role:** MERN Stack Developer | **Status:** 80% Completed
-- Implemented user authentication (sign-in/sign-up), CRUD operations for offers.
-- Ongoing work includes final touches and responsive design improvements.
-- **[GitHub Repository](https://github.com/MazenUcef/project1975)**
-
-<br>
 
 ## 💼 Connect with Me
 <p align="center">
