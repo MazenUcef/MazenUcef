@@ -2,11 +2,11 @@
 
 ## Welcome to My Developer World! 🌍
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 Experienced Full Stack Developer with expertise in MERN (MongoDB, Express.js, React.js, Node.js) and React 
 Native for building scalable web and mobile applications. Passionate about creating high-performance, usercentric applications with a focus on clean architecture, state management, and API integration
 
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 <br><br>
 
 ## 🛠️ My Skill Set
