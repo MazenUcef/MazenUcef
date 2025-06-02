@@ -17,8 +17,7 @@ Native for building scalable web and mobile applications. Passionate about creat
 
 <br>
 
-# 💫 About Me:
-xperienced Full Stack Developer with expertise in MERN (MongoDB, Express.js, React.js, Node.js) and React <br>Native for building scalable web and mobile applications. Passionate about creating high-performance, usercentric applications with a focus on clean architecture, state management, and API integration
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MazenUcef&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
