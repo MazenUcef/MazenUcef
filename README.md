@@ -1,9 +1,3 @@
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
- #  Hi 👋🏻 My name is Mazen Youssef
-
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=279077&width=435&lines=I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
----------------------------------
 
 <table><tr><td valign="top" width="33%">
 
