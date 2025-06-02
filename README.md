@@ -1,10 +1,14 @@
-<p align="center"><img width=100% src="https://github.com/MazenUcef/GIF/blob/main/Screen-Recording-2024-08-23T09_43_35.538Z-ezgif.com-added-text.gif"></p>
-
-## Welcome to My Developer World! 🌍
-
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-<h1 align="center">Hi 👋, I'm Mazen Youssef</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+ #  Hi 👋🏻 My name is Mazen Youssef
+
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=279077&width=435&lines=I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
+---------------------------------
+
+<table><tr><td valign="top" width="33%">
+
+
+# <img src='https://media.giphy.com/avatars/blinkiesCafe/xMAIAMI3245u/200h.gif' width='35' /><span>Tech Stack: </span>
 Experienced Full Stack Developer with expertise in MERN (MongoDB, Express.js, React.js, Node.js) and React 
 Native for building scalable web and mobile applications. Passionate about creating high-performance, usercentric applications with a focus on clean architecture, state management, and API integration
 
